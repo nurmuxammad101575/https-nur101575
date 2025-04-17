@@ -1,4 +1,4 @@
-//html
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -21,7 +21,7 @@
 </body>
 </html>
 
-//js
+
 const canvas = document.getElementById('space');
 const ctx = canvas.getContext('2d');
 canvas.width = window.innerWidth;
